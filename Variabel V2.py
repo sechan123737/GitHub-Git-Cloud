@@ -1,6 +1,6 @@
 nama = "Sechan"
-umur = 20
-kampus = "UBSI"
+umur = 21
+kampus = "Universitas Bina Sarana Informatika"
 
 print("Nama:", nama)
 print("Umur:", umur)
